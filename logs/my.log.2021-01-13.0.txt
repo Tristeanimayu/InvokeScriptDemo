@@ -1,0 +1,20 @@
+2021-01-13 10:02:16.618 [main] INFO  com.example.scripttest.ScripttestApplication - Starting ScripttestApplication using Java 9.0.4 on LAPTOP-8JN8NDRQ with PID 2440 (D:\IdeaProjects\scripttest\target\classes started by HP in D:\IdeaProjects\scripttest)
+2021-01-13 10:02:16.622 [main] INFO  com.example.scripttest.ScripttestApplication - No active profile set, falling back to default profiles: default
+2021-01-13 10:02:17.094 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 10:02:17.101 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 10:02:17.101 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 10:02:17.153 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 10:02:17.153 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 504 ms
+2021-01-13 10:02:17.241 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 10:02:17.336 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 10:02:17.343 [main] INFO  com.example.scripttest.ScripttestApplication - Started ScripttestApplication in 0.981 seconds (JVM running for 1.811)
+2021-01-13 10:05:04.100 [main] INFO  com.example.scripttest.ScripttestApplication - Starting ScripttestApplication using Java 9.0.4 on LAPTOP-8JN8NDRQ with PID 14836 (D:\IdeaProjects\scripttest\target\classes started by HP in D:\IdeaProjects\scripttest)
+2021-01-13 10:05:04.101 [main] INFO  com.example.scripttest.ScripttestApplication - No active profile set, falling back to default profiles: default
+2021-01-13 10:05:04.531 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 10:05:04.536 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 10:05:04.536 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 10:05:04.585 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 10:05:04.585 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 456 ms
+2021-01-13 10:05:04.670 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 10:05:04.753 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 10:05:04.761 [main] INFO  com.example.scripttest.ScripttestApplication - Started ScripttestApplication in 0.915 seconds (JVM running for 1.739)

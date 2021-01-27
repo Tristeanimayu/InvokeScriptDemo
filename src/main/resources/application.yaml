@@ -1,0 +1,14 @@
+logging:
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n"
+    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n"
+  file:
+    path: "./logs/"
+    name: "./logs/my.log"
+  level:
+    root: INFO
+  logback:
+    rollingpolicy:
+      max-file-size: 10MB
+      file-name-pattern: ${LOG_FILE}.%d{yyyy-MM-dd}.%i.txt
+
